@@ -1,6 +1,7 @@
 class Animal{
     void eat(){
         system.out.println("This animal eats food.");
+        system.out.println("This master branch");
     }
 }
 class dog extends Animal{
